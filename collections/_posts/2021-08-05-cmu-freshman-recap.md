@@ -41,13 +41,13 @@ However, I ended up having to drop a course. This wasn't due to the courseload b
 
 The moral of the story is: take interesting classes, but don't feel obligated to stick through them. There's always more time in college, and no penalty for dropping and retaking the course at a better time like there was in high school. Moving on, for the classes I stuck through: 
 
-* **15-150 Principles of Functional Programming**: Starts off fine, but becomes a bit brutal near the end. Especially coupled with getting sick and having to focus on catching up in 15-251 first, I was extremely behind in this class by the midterm. For our year, it seemed like I wasn't the only one struggling with the pacing of the class, with our midterm being one of the worst averages that our professor had seen in his decade at CMU. I believe that this class was definitely interesting, especially from the scope of learning a new way to problem solve programming problems, but a lot of its gleam was lost due to COVID and the new model of content delivery. These issues led to a lot of burn out for me personally, and I left the class a bit jaded rather than with the initial interest I had. That being said, I do think this is an important and interesting course for anyone learning how to "computer science" well. Mandatory for CS Majors. **Hours Spent**: (taking into account burnout by the end of the semester) 20-25 hours!
+* **15-150 Principles of Functional Programming (Professor Crary)**: Starts off fine, but becomes a bit brutal near the end. Especially coupled with getting sick and having to focus on catching up in 15-251 first, I was extremely behind in this class by the midterm. For our year, it seemed like I wasn't the only one struggling with the pacing of the class, with our midterm being one of the worst averages that our professor had seen in his decade at CMU. I believe that this class was definitely interesting, especially from the scope of learning a new way to problem solve programming problems, but a lot of its gleam was lost due to COVID and the new model of content delivery. These issues led to a lot of burn out for me personally, and I left the class a bit jaded rather than with the initial interest I had. That being said, I do think this is an important and interesting course for anyone learning how to "computer science" well. Mandatory for CS Majors. **Hours Spent**: (taking into account burnout by the end of the semester) 20-25 hours!
 
-* **73-103 Principles of Macroeconomics (Professor Zeitlen-Jones)**: Definitely a fun class to learn economics and has a great professor with a ton of flexibility. In our semester, the course was slightly revamped to include case studies, which were definitely a bit more difficult than the work we received in Microeconomics, but I definitely learned a lot by doing them. Overall, this was a  solid class. Mandatory for Business and Economics Majors. **Hours spent**: 6-8 hours!
+* **73-103 Principles of Macroeconomics (Professor Zetlin-Jones)**: Definitely a fun class to learn economics and has a great professor with a ton of flexibility. In our semester, the course was slightly revamped to include case studies, which were definitely a bit more difficult than the work we received in Microeconomics, but I definitely learned a lot by doing them. Overall, this was a  solid class. Mandatory for Business and Economics Majors. **Hours spent**: 6-8 hours!
 
-* **70-391 Finance**: This was another solid introduction to Finance for anyone who may be interested, business or otherwise. This class honestly taught me that, perhaps, specific finance careers were not exactly what I wished to do for the rest of my life, but I definitely learned enough skills to help me think more analytically in whatever role I end up in. Mandatory for Business Majors. **Hours spent**: 5-7 hours!
+* **70-391 Finance (Professor Albertus)**: This was another solid introduction to Finance for anyone who may be interested, business or otherwise. This class honestly taught me that, perhaps, specific finance careers were not exactly what I wished to do for the rest of my life, but I definitely learned enough skills to help me think more analytically in whatever role I end up in. Mandatory for Business Majors. **Hours spent**: 5-7 hours!
 
-* **36-202 Methods of Statistics and Data Science**: This was a course that really only brushed the surface of R and statistics. For anyone looking at a class to take that would let them learn a bit without spending too much time outside of classes, this is a solid course. However, for someone who wants to have a deep-dive into R, I would recommend taking a higher level course. Mandatory for Business Majors (or take the business equivalent). **Hours spent**: 3-4 hours!
+* **36-202 Methods of Statistics and Data Science (Professor Weinberg)**: This was a course that really only brushed the surface of R and statistics. For anyone looking at a class to take that would let them learn a bit without spending too much time outside of classes, this is a solid course. However, for someone who wants to have a deep-dive into R, I would recommend taking a higher level course. Mandatory for Business Majors (or take the business equivalent). **Hours spent**: 3-4 hours!
 
 Overall, I definitely felt like my initial courseload was on the heavier, but doable side. For other freshman, I would still recommend taking lighter courseloads earlier on, just to get acclimated to clubs and campus culture, before really diving into the areas you're interested in. Total hours spent on coursework: 34-44 hours. 
 
@@ -55,9 +55,13 @@ Overall, I definitely felt like my initial courseload was on the heavier, but do
 
 I believe that I may be taking a bit more than I can handle, especially since I barely understood the latter half of 15-150 material, but I think I'm taking a mix of interesting courses this semester: 
 
-* 15-213 
-* 15-210
-* 70-204
-* 70-381
-* 70-311
-* 98-374
+* 15-213: Introduction to Computer Systems
+* 70-204: Business Leadership Endeavor II
+* 15-210: Parallel and Sequential Data Structures and Algorithms
+* 70-381: Marketing I
+* 70-311: Organizational Behavior
+* 98-374: Tea Culture
+
+I'm thinking that the two computer science classes will definitely take a lot of my time this semester. 213 and 210 are both timesinks, but I hope to learn a lot about software development from the both of them. Otherwise, I'm pretty interested in Org Behavior and Marketing, so I'm looking forward to taking those courses. As an avid tea enthusiast, I'm most excited for the stuco. In all, this is probably going to be my most intense semester yet, reaching 35-45 hours. 
+
+I'll likely be giving a end of fall semester recap in a few months, and we'll see if these predictions are accurate. If you have any advice or opinions on the classes I'm taking, feel free to reach out!
