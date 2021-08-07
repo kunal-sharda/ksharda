@@ -62,7 +62,6 @@ I believe that I may be taking a bit more than I can handle, especially since I 
 * 70-311: Organizational Behavior
 * 98-374: Tea Culture
 
-
-I'm thinking that the two computer science classes will definitely take a lot of my time this semester. 213 and 210 are both timesinks, but I hope to learn a lot about software development from the both of them. Otherwise, I'm pretty interested in Org Behavior and Marketing, so I'm looking forward to taking those courses. As an avid tea enthusiast, I'm most excited for the stuco. In all, this is probably going to be my most intense semester yet, reaching 35-45 hours. 
+<br />I'm thinking that the two computer science classes will definitely take a lot of my time this semester. 213 and 210 are both timesinks, but I hope to learn a lot about software development from the both of them. Otherwise, I'm pretty interested in Org Behavior and Marketing, so I'm looking forward to taking those courses. As an avid tea enthusiast, I'm most excited for the stuco. In all, this is probably going to be my most intense semester yet, reaching 35-45 hours. 
 
 I'll likely be giving a end of fall semester recap in a few months, and we'll see if these predictions are accurate. If you have any advice or opinions on the classes I'm taking, feel free to reach out!
